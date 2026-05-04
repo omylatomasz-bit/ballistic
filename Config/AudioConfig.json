@@ -1,0 +1,1 @@
+{\n  "audioSettings": {\n    "musicThemes": [\n      "theme1.mp3",\n      "theme2.mp3",\n      "theme3.mp3"\n    ],\n    "soundEffects": [\n      "effect1.wav",\n      "effect2.wav",\n      "effect3.wav"\n    ],\n    "apiSettings": {\n      "volume": 100,\n      "mute": false,\n      "baseUrl": "https://api.example.com/audio"\n    }\n  }\n}
