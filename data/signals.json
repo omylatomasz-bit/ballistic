@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T17:45:24+00:00",
+ "generated_at": "2026-11-11T20:45:45+00:00",
  "mode": "paper",
  "regime": {
   "state": "risk_on",
@@ -41,11 +41,11 @@
      "cs": "Proč: silná akcie v rostoucím trendu prudce spadla (RSI(2) < 10) ve chvíli zvýšeného strachu na trhu (VIX nad 18); bot prodá, jakmile cena odrazí nad 5denní průměr. Neplatí, pokud cena klesne na stop 165.80 nebo do 2026-11-17 nedosáhne cíle (pak se pozice zavře).",
      "en": "Why: a strong stock in an uptrend dropped hard (RSI(2) < 10) while market fear is elevated (VIX above 18); the bot sells as soon as the price bounces above its 5-day average. Invalidated if the price falls to the stop 165.80, or if the target is not reached by 2026-11-17 (the position is then closed)."
     },
-    "last_price": 189.0,
-    "last_price_at": "2026-11-11T17:45:07+00:00",
-    "pnl_pct_position": 0.058,
-    "pnl_r": 0.005,
-    "progress": 0.002,
+    "last_price": 191.16,
+    "last_price_at": "2026-11-11T20:44:54+00:00",
+    "pnl_pct_position": 1.202,
+    "pnl_r": 0.098,
+    "progress": 0.049,
     "price_path": [
      {
       "t": "2026-11-10T16:00:00-05:00",
@@ -58,6 +58,10 @@
      {
       "t": "2026-11-11T17:45:07+00:00",
       "p": 189.0
+     },
+     {
+      "t": "2026-11-11T20:44:54+00:00",
+      "p": 191.16
      }
     ]
    },
@@ -93,11 +97,11 @@
      "cs": "Proč: silná akcie v rostoucím trendu prudce spadla (RSI(2) < 10) ve chvíli zvýšeného strachu na trhu (VIX nad 18); bot prodá, jakmile cena odrazí nad 5denní průměr. Neplatí, pokud cena klesne na stop 148.99 nebo do 2026-11-17 nedosáhne cíle (pak se pozice zavře).",
      "en": "Why: a strong stock in an uptrend dropped hard (RSI(2) < 10) while market fear is elevated (VIX above 18); the bot sells as soon as the price bounces above its 5-day average. Invalidated if the price falls to the stop 148.99, or if the target is not reached by 2026-11-17 (the position is then closed)."
     },
-    "last_price": 165.52,
-    "last_price_at": "2026-11-11T17:45:15+00:00",
-    "pnl_pct_position": 0.638,
-    "pnl_r": 0.068,
-    "progress": 0.034,
+    "last_price": 166.155,
+    "last_price_at": "2026-11-11T20:45:00+00:00",
+    "pnl_pct_position": 1.025,
+    "pnl_r": 0.109,
+    "progress": 0.054,
     "price_path": [
      {
       "t": "2026-11-10T16:00:00-05:00",
@@ -110,6 +114,10 @@
      {
       "t": "2026-11-11T17:45:15+00:00",
       "p": 165.52
+     },
+     {
+      "t": "2026-11-11T20:45:00+00:00",
+      "p": 166.155
      }
     ]
    }
@@ -147,11 +155,11 @@
      "cs": "Proč: cena spadla o více než 3 denní rozpětí (ATR) pod 5denní maximum v rostoucím trendu a při zvýšeném strachu (VIX nad 18); drží se celý týden. Neplatí, pokud cena klesne na stop 178.46 nebo do 2026-11-17 nedosáhne cíle (pak se pozice zavře).",
      "en": "Why: the price fell more than 3 daily ranges (ATR) below its 5-day high in an uptrend while fear is elevated (VIX above 18); held for the full week. Invalidated if the price falls to the stop 178.46, or if the target is not reached by 2026-11-17 (the position is then closed)."
     },
-    "last_price": 194.575,
-    "last_price_at": "2026-11-11T17:45:07+00:00",
-    "pnl_pct_position": 0.167,
-    "pnl_r": 0.021,
-    "progress": 0.01,
+    "last_price": 195.95,
+    "last_price_at": "2026-11-11T20:45:00+00:00",
+    "pnl_pct_position": 0.875,
+    "pnl_r": 0.108,
+    "progress": 0.054,
     "price_path": [
      {
       "t": "2026-11-10T16:00:00-05:00",
@@ -164,6 +172,10 @@
      {
       "t": "2026-11-11T17:45:07+00:00",
       "p": 194.575
+     },
+     {
+      "t": "2026-11-11T20:45:00+00:00",
+      "p": 195.95
      }
     ]
    }
@@ -209,11 +221,11 @@
      "cs": "Proč: cena roste déle než rok a drží se nad 200denním průměrem; patří mezi nejsilnější tituly za posledních 12 měsíců; sektor je mezi 3 nejsilnějšími a nad 200denním průměrem. Neplatí, pokud cena klesne na stop 57.38 nebo do 2026-12-09 nedosáhne cíle (pak se pozice zavře, nebo prodlouží, pokud signál stále platí).",
      "en": "Why: the price has risen over the past year and holds above its 200-day average; it is among the strongest names over the last 12 months; the sector is among the 3 strongest and above its 200-day average. Invalidated if the price falls to the stop 57.38, or if the target is not reached by 2026-12-09 (the position is then closed, or extended if the signal still holds)."
     },
-    "last_price": 62.905,
-    "last_price_at": "2026-11-11T17:45:14+00:00",
-    "pnl_pct_position": 1.558,
-    "pnl_r": 0.212,
-    "progress": 0.106,
+    "last_price": 63.185,
+    "last_price_at": "2026-11-11T20:44:45+00:00",
+    "pnl_pct_position": 2.01,
+    "pnl_r": 0.273,
+    "progress": 0.137,
     "price_path": [
      {
       "t": "2026-11-09T16:00:00-05:00",
@@ -230,6 +242,10 @@
      {
       "t": "2026-11-11T17:45:14+00:00",
       "p": 62.905
+     },
+     {
+      "t": "2026-11-11T20:44:45+00:00",
+      "p": 63.185
      }
     ]
    },
@@ -269,11 +285,11 @@
      "cs": "Proč: cena roste déle než rok a drží se nad 200denním průměrem; sektor je mezi 3 nejsilnějšími a nad 200denním průměrem. Neplatí, pokud cena klesne na stop 178.91 nebo do 2026-12-09 nedosáhne cíle (pak se pozice zavře, nebo prodlouží, pokud signál stále platí).",
      "en": "Why: the price has risen over the past year and holds above its 200-day average; the sector is among the 3 strongest and above its 200-day average. Invalidated if the price falls to the stop 178.91, or if the target is not reached by 2026-12-09 (the position is then closed, or extended if the signal still holds)."
     },
-    "last_price": 187.815,
-    "last_price_at": "2026-11-11T17:45:16+00:00",
-    "pnl_pct_position": -0.273,
-    "pnl_r": -0.055,
-    "progress": -0.055,
+    "last_price": 188.94,
+    "last_price_at": "2026-11-11T20:44:54+00:00",
+    "pnl_pct_position": 0.324,
+    "pnl_r": 0.065,
+    "progress": 0.032,
     "price_path": [
      {
       "t": "2026-11-09T16:00:00-05:00",
@@ -290,6 +306,10 @@
      {
       "t": "2026-11-11T17:45:16+00:00",
       "p": 187.815
+     },
+     {
+      "t": "2026-11-11T20:44:54+00:00",
+      "p": 188.94
      }
     ]
    },
@@ -329,11 +349,11 @@
      "cs": "Proč: cena roste déle než rok a drží se nad 200denním průměrem; sektor je mezi 3 nejsilnějšími a nad 200denním průměrem. Neplatí, pokud cena klesne na stop 86.42 nebo do 2026-12-09 nedosáhne cíle (pak se pozice zavře, nebo prodlouží, pokud signál stále platí).",
      "en": "Why: the price has risen over the past year and holds above its 200-day average; the sector is among the 3 strongest and above its 200-day average. Invalidated if the price falls to the stop 86.42, or if the target is not reached by 2026-12-09 (the position is then closed, or extended if the signal still holds)."
     },
-    "last_price": 90.675,
-    "last_price_at": "2026-11-11T17:45:16+00:00",
-    "pnl_pct_position": -0.237,
-    "pnl_r": -0.048,
-    "progress": -0.048,
+    "last_price": 91.345,
+    "last_price_at": "2026-11-11T20:45:00+00:00",
+    "pnl_pct_position": 0.501,
+    "pnl_r": 0.102,
+    "progress": 0.051,
     "price_path": [
      {
       "t": "2026-11-09T16:00:00-05:00",
@@ -350,6 +370,10 @@
      {
       "t": "2026-11-11T17:45:16+00:00",
       "p": 90.675
+     },
+     {
+      "t": "2026-11-11T20:45:00+00:00",
+      "p": 91.345
      }
     ]
    },
@@ -389,11 +413,11 @@
      "cs": "Proč: cena roste déle než rok a drží se nad 200denním průměrem; patří mezi nejsilnější tituly za posledních 12 měsíců. Neplatí, pokud cena klesne na stop 190.32 nebo do 2026-12-10 nedosáhne cíle (pak se pozice zavře, nebo prodlouží, pokud signál stále platí).",
      "en": "Why: the price has risen over the past year and holds above its 200-day average; it is among the strongest names over the last 12 months. Invalidated if the price falls to the stop 190.32, or if the target is not reached by 2026-12-10 (the position is then closed, or extended if the signal still holds)."
     },
-    "last_price": 247.71,
-    "last_price_at": "2026-11-11T17:45:07+00:00",
-    "pnl_pct_position": -1.244,
-    "pnl_r": -0.052,
-    "progress": -0.052,
+    "last_price": 251.295,
+    "last_price_at": "2026-11-11T20:44:58+00:00",
+    "pnl_pct_position": 0.185,
+    "pnl_r": 0.008,
+    "progress": 0.004,
     "price_path": [
      {
       "t": "2026-11-10T16:00:00-05:00",
@@ -406,6 +430,10 @@
      {
       "t": "2026-11-11T17:45:07+00:00",
       "p": 247.71
+     },
+     {
+      "t": "2026-11-11T20:44:58+00:00",
+      "p": 251.295
      }
     ]
    }
